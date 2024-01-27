@@ -1,0 +1,15 @@
+/* WeatherPage.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .weather-details {
+    margin-bottom: 20px;
+  }
+  
+  .weather-details p {
+    margin-bottom: 10px;
+  }
+  
